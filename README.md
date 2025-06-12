@@ -1,1 +1,22 @@
-# Trader3 is the third version of my AI stock trading bot. The way it will run is simple; it should take advantage of 4 things: 1. Insider trading, 2. Government trading, 3. Longterm trading using indicators, 4. Day trading. There will be a pay split from the money made by the bot, which will be outlined later. Responsibilities are as follows:
+# AI Trader Bot
+
+This project is a stock trading bot written in Python.
+
+We plan to build features for both long-term and short-term trading.
+
+The bot will analyze market data and make trading decisions automatically.
+
+
+
+## How to use
+
+- An executable file will be released shortly.
+- This project is for demonstration only.
+- The full code is not open source.
+
+
+## Contact
+
+If you want to collaborate or learn more, contact us on GitHub:  
+- Martin Wu: [martinw500](https://github.com/martinw500)  
+- Eric Xu: [ericx057](https://github.com/ericx057)  
