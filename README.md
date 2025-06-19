@@ -1,3 +1,7 @@
+⚠️ # **WARNING: PROPRIETARY SOFTWARE**
+
+**This project is NOT open source. The main trading algorithms and implementation code are proprietary and will NOT be posted publicly.**
+
 # AI Trader Bot
 
 This project is a stock trading bot written in Python.
