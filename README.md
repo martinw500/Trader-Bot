@@ -1,8 +1,9 @@
-⚠️ # **WARNING: PROPRIETARY SOFTWARE**
+# ⚠️ **WARNING: PROPRIETARY SOFTWARE**
 
 **This project is NOT open source. The main trading algorithms and implementation code are proprietary and will NOT be posted publicly.**
 
-# AI Trader Bot
+
+## AI Trader Bot
 
 This project is a stock trading bot written in Python.
 
@@ -12,14 +13,14 @@ The bot will analyze market data and make trading decisions automatically.
 
 
 
-## How to use
+### How to use
 
 - An executable file will be released shortly.
 - This project is for demonstration only.
 - The full code is not open source.
 
 
-## Contact
+### Contact
 
 If you want to collaborate or learn more, contact us on GitHub:  
 - Martin Wu: [martinw500](https://github.com/martinw500)  
